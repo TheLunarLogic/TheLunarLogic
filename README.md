@@ -63,6 +63,8 @@
             src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
             height="40" /> </a> </p>
 
+ ### ✍️ Random Dev Quote
+ ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=thelunarlogic&show_icons=true&locale=en"
